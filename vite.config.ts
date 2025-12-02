@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/mercadona-flow/', // Cambia 'mercadona-flow' por el nombre de tu repositorio
+  base: '/Anti_01_marca/', // Nombre correcto del repositorio de GitHub
   plugins: [react()],
   resolve: {
     alias: {
