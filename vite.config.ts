@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Anti_01_marca/', // Nombre correcto del repositorio de GitHub
+  base: '/Anti_01_merca/', // Nombre REAL del repositorio en GitHub (sin la 'a' final)
   plugins: [react()],
   resolve: {
     alias: {
